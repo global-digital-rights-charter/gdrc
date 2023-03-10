@@ -1,0 +1,159 @@
+@import "~bootstrap/scss/bootstrap.scss";
+
+.dropdown-item.active,
+.dropdown-item:active {
+  background-color: rgb(34, 34, 34);
+}
+
+.nav-link {
+  margin-left: 10px;
+  margin-right: 10px;
+  line-height: 30px;
+}
+
+@media only screen and (max-width: 1000px) {
+  .navbar-brand {
+    h3 {
+      font-size: 18px !important;
+    }
+  }
+  .navbar-nav {
+    text-align: center;
+  }
+}
+
+.form-control:focus {
+  border-color: rgb(34, 34, 34);
+}
+
+html,
+body {
+  color: black;
+  margin: 0;
+  background-color: #efefef !important;
+  font-family: "Inter";
+}
+
+textarea,
+select,
+input,
+button,
+video {
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+a {
+  outline: 0 !important;
+}
+
+b {
+  font-family: "Inter-Bold";
+}
+
+h1 {
+  font-size: 7.5rem;
+  line-height: 1 !important;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+@media only screen and (max-width: 1200px) {
+  h1 {
+    font-size: 6rem;
+  }
+  h2 {
+    font-size: 2.5rem;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  h1 {
+    font-size: 4.5rem;
+  }
+  h2 {
+    font-size: 2rem;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Aileron-Heavy";
+}
+
+.text-subheading {
+  color: #666666;
+  font-family: "Inter";
+  font-weight: normal !important;
+  letter-spacing: 0.2em;
+  font-size: larger;
+}
+
+.no-padding {
+  padding: 0;
+}
+
+.font-larger {
+  font-size: larger;
+}
+
+.font-normal {
+  font-size: initial;
+}
+
+.font-grey {
+  color: #666666;
+}
+
+.question-answer {
+  font-size: larger;
+  margin-left: 30px;
+  word-wrap: break-word;
+}
+
+#footer {
+  background-color: white;
+  padding: 1.5rem;
+  line-height: 18px;
+  color: #666666;
+
+  img {
+    vertical-align: bottom;
+  }
+
+  a {
+    color: #666666;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+
+  a:hover {
+    color: black;
+  }
+}
+
+.grey-link {
+  color: rgb(100, 100, 100);
+
+  &:hover {
+    text-decoration: underline;
+    color: black;
+  }
+}
+
+.black-link {
+  color: black;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+    color: rgb(100, 100, 100);
+  }
+}
