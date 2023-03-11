@@ -14,7 +14,7 @@ export default function Document() {
           id="footer"
           className="d-flex align-items-center justify-content-center flex-wrap">
           <a
-            href="https://github.com/a2rocket/global-digital-rights-charter"
+            href="https://github.com/global-digital-rights-charter/gdrc"
             target="_blank"
             rel="noreferrer">
             <Image
