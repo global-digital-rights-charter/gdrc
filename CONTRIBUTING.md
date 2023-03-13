@@ -66,7 +66,7 @@ Ensure that the "destination" is set as the upstream repository (not your own fo
 Write a short title for your PR (less than 50 characters), and a detailed description of your changes.
 If there is an associated issue number, include that as the first line of your description, using this format (but replacing the issue number with the correct digits):
 
-> Resolves global-digital-rights-charter/gdrc#4200
+> Resolves #4200
 
 ## Reviews
 
