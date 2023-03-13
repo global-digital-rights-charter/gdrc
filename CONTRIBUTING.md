@@ -61,7 +61,7 @@ Sync any upstream changes, and merge into your working branch if necessary.
 
 When you changes are ready, [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 This notifies the GDRC team that you would like to have your changes reviewed, and potentially incorporated into the main project.
-Ensure that the "destination" is set as the upstream repository (not your own fork). The "head branch" is the working branch that holds your propsed changes.
+Ensure that the "destination" is set as the upstream repository (not your own fork). The "head branch" is the working branch that holds your proposed changes.
 
 Write a short title for your PR (less than 50 characters), and a detailed description of your changes.
 If there is an associated issue number, include that as the first line of your description, using this format (but replacing the issue number with the correct digits):
