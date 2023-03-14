@@ -2,29 +2,29 @@
 
 PORT: 3001
 
-# Setup
+## Setup
 
-## Install
+### Install
 
 ```
 npm i
 ```
 
-## Build
+### Build
 
 ```
 npm run build
 ```
 
-# Services
+## Services
 
-## LOCAL
+### LOCAL
 
 ```
 npm run dev
 ```
 
-## LIVE
+### LIVE
 
 ```
 npm run start
