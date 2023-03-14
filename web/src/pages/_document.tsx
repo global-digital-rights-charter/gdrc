@@ -62,6 +62,20 @@ export default function Document() {
             />{" "}
             OpenSea
           </a>
+          &nbsp;&nbsp;|&nbsp;&nbsp;
+          <a
+            href="https://twitter.com/GDRCharter"
+            target="_blank"
+            rel="noreferrer">
+            <Image
+              loading={"lazy"}
+              width="20"
+              height="20"
+              src="/twitter.png"
+              alt="twitter"
+            />{" "}
+            @GDRCharter
+          </a>
         </footer>
       </body>
     </Html>
