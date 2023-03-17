@@ -18,6 +18,13 @@ interface Props {
   isConnected: boolean;
 }
 
+export function numberWithCommas(x: number) {
+  if (x == null || x == 0) return "-";
+  const parts = x.toString().split(".");
+  parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+  return parts.join(".");
+}
+
 export default function MintComponent(props: Props) {
   const contractLink =
     process.env.CHAIN_ID == "5"
@@ -88,9 +95,9 @@ export default function MintComponent(props: Props) {
               <Col>
                 <h3>
                   Total Minted:{" "}
-                  {JSON.stringify(
-                    totalSupply.data ? Number(totalSupply.data) : 0
-                  )}
+                  {totalSupply.data
+                    ? numberWithCommas(Number(totalSupply.data))
+                    : 0}
                 </h3>
               </Col>
             </Row>
@@ -98,7 +105,9 @@ export default function MintComponent(props: Props) {
               <Row>
                 <Col>
                   You Own:{" "}
-                  {JSON.stringify(balanceOf.data ? Number(balanceOf.data) : 0)}
+                  {balanceOf.data
+                    ? numberWithCommas(Number(balanceOf.data))
+                    : 0}
                 </Col>
               </Row>
             )}
