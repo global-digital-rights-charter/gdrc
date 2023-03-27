@@ -1,0 +1,34 @@
+Die Charta der Globalen Digitalen Rechte
+VERSION 1.0 - MÄRZ 2023
+
+Präambel
+
+Diese Wahrheiten sind selbstverständlich:
+
+- Die digitale Welt, bestehend aus Computern, Mobiltelefonen, dem Internet, erweiterter und virtueller Realität, dem Metaverse und anderen verwandten Technologien, ist ein dauerhafter und wichtiger Teil der menschlichen Gesellschaft.
+- Die Menschen sind mit bestimmten unveräußerlichen Rechten ausgestattet, die in der digitalen Welt ebenso gelten wie in der physischen Welt.
+- Die Menschen haben das Recht, ihr Leben in der digitalen Welt mit der gleichen Freiheit, Würde und persönlichen Souveränität zu führen wie in der physischen Welt.
+- Die Rechte in der digitalen Welt dürfen nicht ohne ein ordentliches Gerichtsverfahren eingeschränkt werden. Jede Einschränkung digitaler Rechte muss einem zwingenden staatlichen Interesse dienen und eng auf die Erreichung dieses Interesses zugeschnitten sein.
+
+Die digitalen Rechte
+
+1. Jede:r hat das Recht auf Leben, Freiheit und das Streben nach Glück in der digitalen Welt.
+2. Jede:r hat das Recht, digitale Objekte zu besitzen und in seinem eigenen direkten und ausschließlichen Besitz und unter seiner Kontrolle zu halten, ohne dass ihm dadurch unzumutbare Lasten entstehen. Die Regierung hat nicht das Recht, Passwörter oder private Schlüssel ohne ein ordentliches Gerichtsverfahren zu speichern oder darauf zuzugreifen. Alle anderen juristischen oder natürlichen Personen haben nicht das Recht, Passwörter oder private Schlüssel ohne ausdrückliche Erlaubnis zu speichern oder darauf zuzugreifen.
+3. Jede:r hat das Recht, frei und ohne unzumutbare Belastungen mit digitalen Gegenständen zu handeln.
+4. Jede:r hat das Recht, dezentralisierte Anwendungen ohne unzumutbare Belastungen zu nutzen.
+5. Jede:r hat das Recht, vor unangemessenen Durchsuchungen und Beschlagnahmungen seiner digitalen Objekte geschützt zu werden, und es dürfen keine Durchsuchungsbefehle ausgestellt werden, es sei denn, es liegt ein hinreichender Verdacht vor, der durch einen Eid oder eine eidesstattliche Erklärung gestützt wird und in dem der zu durchsuchende Ort und die zu beschlagnahmenden Personen oder Gegenstände genau beschrieben sind. Dieses Recht erstreckt sich auf digitale Objekte und Informationen, die eine Person absichtlich oder unabsichtlich einem Dritten zur Verfügung stellt. Die Regierung darf solche digitalen Gegenstände oder Informationen nicht durchsuchen oder beschlagnahmen, ohne die Anforderungen des vorstehenden Satzes zu erfüllen.
+6. Jede:r hat das Recht, sich an der Erstellung und Pflege digitaler Gemeingüter, wie Open-Source-Software und öffentlichen Blockchains und verteilter Datenbanken, zu beteiligen. Niemand kann für die Handlungen anderer in einem digitalen Gemeingut verantwortlich gemacht werden, das sich nicht unter seiner Kontrolle befindet.
+7. Jede:r hat das Recht auf Privatsphäre in seinem digitalen Leben. Das Recht auf Privatsphäre beinhaltet auch das Recht einer jeden und eines jeden, eine Verschlüsselung zu verwenden, die frei von Hintertüren oder anderen absichtlichen Schwachstellen oder Umgehungen in der Verschlüsselung ist, die für die Regierung oder private Unternehmen oder Einzelpersonen zugänglich sind. Die Auslegung dieses Rechts sollte weit gefasst werden und das Recht des Einzelnen auf Privatsphäre begünstigen.
+8. Jede:r hat das Recht auf eine diskriminierungsfreie Behandlung unabhängig von Geschlecht, Rasse, Hautfarbe, ethnischer oder sozialer Herkunft, genetischen Merkmalen, Sprache, Religion oder sonstiger Weltanschauung, politischer Meinung, Zugehörigkeit zu einer nationalen Minderheit, Vermögen, Geburt, Behinderung, Alter, Geschlecht oder sexueller Ausrichtung.
+9. Jede:r hat das Recht, aus jedem digitalen Dienst auszusteigen, indem er seine persönlichen digitalen Daten einfordert. Bei digitalen Diensten, die auf einer öffentlichen Blockchain gespeicherte Daten verwenden, wird davon ausgegangen, dass sie mit dieser Klausel konform sind. Digitale Dienste, die Daten in einer privaten Datenbank speichern, müssen diese Daten für den Export in gängigen Formaten, in angemessenen Zeiträumen und mit angemessenen Methoden zur Verfügung stellen.
+10. Jede:r hat in der digitalen Welt das Recht zu sprechen, sich zu versammeln, seine Religion auszuüben, wissenschaftliche und akademische Forschung zu betreiben und Petitionen an die Regierung zu richten.
+11. Jede:r hat das Recht, vertragliche Rechte im digitalen Bereich zu definieren und die Ausübung dieser Rechte auf persönliche oder automatisierte Weise zu ermöglichen.
+12. Jede:r ist frei von kollektiver Bestrafung in der digitalen Welt.
+13. Jede:r hat das Recht, in der digitalen Welt durch anonyme Identitäten, pseudonyme Identitäten und/oder Software-Agenten zu handeln, solange jede Person die persönliche Verantwortung für die Handlungen aller ihrer Identitäten und Agenten behält.
+14. Die oben aufgezählten Rechte dürfen nicht eingeschränkt werden, es sei denn, sie werden sorgfältig zugeschnitten, um ein legitimes und zwingendes staatliches Interesse zu fördern, und dies nach einem ordentlichen Gerichtsverfahren. In jedem Verfahren zur Einschränkung der oben genannten Rechte hat der Angeklagte das Recht auf einen Rechtsbeistand und es gilt die Unschuldsvermutung. Ausnahmen aus Gründen der nationalen Sicherheit sollten zeitlich und vom Umfang her begrenzt sein und von einem zuständigen Gericht überwacht werden, wobei davon auszugehen ist, dass die Anhörungen öffentlich sein sollten. Auf keinen Fall sollten Ausnahmen für die nationale Sicherheit auf kollektive gesellschaftliche Beschränkungen digitaler Rechte angewendet werden.
+15. Jede:r ist verpflichtet, die einschlägigen Gesetze und Vorschriften seines Staates und seiner Gemeinschaft in einer Weise zu befolgen, die mit den oben aufgezählten Rechten vereinbar ist, und die Rechte anderer zu respektieren, ihr digitales Leben friedlich zu führen.
+
+Die Unterzeichner der Charta werden sich um die Umsetzung dieser Grundsätze bemühen.
+
+1. Die politischen Instanzen sollten ihre Umsetzung der Charta der globalen digitalen Rechte so weit wie möglich standardisieren, um die internationale Zusammenarbeit und Freundschaft zu fördern.
+2. Einzelpersonen und Organisationen sollten bestrebt sein, die digitalen Rechte in ihrem persönlichen und organisatorischen Handeln und in ihrer politischen Gemeinschaft zu fördern.
