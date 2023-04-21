@@ -1,0 +1,47 @@
+
+
+
+
+= Carta Global dos Direitos Digitais =
+
+VERSÃO 1.0 - MARÇO 2023
+
+== Preâmbulo ==
+
+Estas verdades são por si só evidentes:* o domínio digital, constituído por computadores, telemóveis, internet, realidade aumentada e virtual, o metaverso e outras tecnologias relacionadas, é uma parte permanente e importante da sociedade humana.
+* as pessoas são dotadas de determinados direitos inalienáveis que se aplicam no domínio digital, tal como se aplicam no domínio físico.
+* as pessoas têm o direito de viver as suas vidas no domínio digital com a mesma liberdade, dignidade, e soberania pessoal que no domínio físico.
+* direitos no domínio digital não serão abreviados ou restringidos sem o devido processo legal. Qualquer abreviação ou restringimento dos direitos digitais deve promover um interesse governamental imperioso e ser estritamente adaptada para alcançar esse interesse.
+
+
+
+
+
+== Os Direitos Digitais ==
+
+# Todas as pessoas têm direito à vida, liberdade, e perseguição da felicidade no domínio digital.
+# Todas as pessoas têm o direito de possuir objetos digitais, e mantê-los na sua posse e controlo direto e exclusivo sem encargos irrazoáveis. O governo não terá o direito de guardar ou aceder a senhas ou chaves privadas sem o devido processo legal. Todas as restantes pessoas singulares ou coletivas não terão o direito de guardar ou aceder a palavras-passe ou chaves privadas sem autorização explícita.
+# Todas as pessoas têm o direito de ser livres para transacionar objetos digitais, sem encargos irrazoáveis.
+# Todas as pessoas têm direito a utilizar aplicações descentralizadas, sem encargos irrazoáveis.
+# Todas as pessoas têm o direito de estar seguras contra buscas e apreensões irrazoáveis dos seus objetos digitais e nenhum mandado será emitido senão por causa provável, apoiado por juramento ou afirmação, e particularmente descrevendo o local a ser revistado, e as pessoas ou coisas a serem apreendidas. Este direito estende-se aos objetos digitais e às informações que uma pessoa fornece a terceiros de forma intencional ou não intencionalmente. O governo não pode revistar ou apreender tais objetos ou informações digitais sem cumprir os requisitos da frase anterior.
+# Todas as pessoas têm o direito de participar na criação e manutenção de sistemas comuns digitais, tais como software de código aberto e cadeias (''blockchains'') e registos de transações públicas. Ninguém pode ser responsabilizado pelas ações de outros num sistema ou espaço público comum digital que não esteja sob o controlo dessa pessoa.
+# Todas as pessoas têm o direito à privacidade na sua vida digital. O direito à privacidade inclui também o direito de todas as pessoas utilizarem a encriptação livre de ‘portas traseiras’ (''backdoors'') ou outras fraquezas ou circunvenções intencionais na encriptação acessível pelo governo ou por empresas ou indivíduos privados. As interpretações deste direito devem ser lidas de forma ampla e em favorecimento do direito de um indivíduo à privacidade. 
+# Todas as pessoas têm o direito de ser tratadas de forma não discriminatória, independentemente do sexo, raça, cor, origem étnica ou social, características genéticas, língua, religião ou outra crença, opinião política, pertença a uma minoria nacional, propriedade, nascimento, deficiência, idade, género ou orientação sexual.
+# Todas as pessoas têm o direito de sair de qualquer serviço digital, reclamando os seus dados pessoais digitais. Os serviços digitais que utilizam dados mantidos numa cadeia pública (''blockchain'') presumem-se em conformidade com esta cláusula. Os serviços digitais que detêm dados numa base de dados privada têm de disponibilizar esses dados para exportação em formatos comuns, em prazos razoáveis, utilizando métodos razoáveis
+# Todas as pessoas no domínio digital têm o direito de falar, reunir, praticar a sua religião, conduzir pesquisas científicas e académicas, e intervir junto do governo.
+# Todas as pessoas têm o direito de definir direitos contratuais no domínio digital e permitir o exercício desses direitos de forma pessoal ou automatizada.
+# Todas as pessoas estão livres de punições coletivas no domínio digital.
+# Todas as pessoas têm o direito de agir no domínio digital através de identidades anónimas, identidades pseudónimas e/ou agentes de ''software'', desde que cada pessoa mantenha a responsabilidade pessoal pelas ações de todas as suas identidades e agentes.
+# Os direitos enumerados acima não podem ser abreviados ou restringidos, exceto quando estritamente adaptados para promover um interesse legítimo e imperioso do governo e após o devido processo legal. Em qualquer processo para abreviar ou restringir os direitos acima enumerados, o arguido terá o direito a representação legal e gozará da presunção de inocência. Exceções dizentes à segurança nacional referentes ao acima descrito devem ser limitadas no tempo e âmbito de aplicação e supervisionadas por um tribunal competente com presunção de que as audiências devem ser públicas. Em caso algum podem exceções referentes a questões de segurança nacional ser aplicadas a restrições societais coletivas de direitos digitais.
+# Todas as pessoas têm a obrigação de cumprir a legislação e regulamentação relevante do seu respetivo Estado e comunidade, de forma coerente com os direitos acima enumerados, e de respeitar os direitos de outros em conduzirem as suas vidas digitais de forma pacífica.
+
+
+
+<div style="margin-left:0.25in;margin-right:0in;"></div>
+
+<div style="margin-left:0.25in;margin-right:0in;">'''Os signatários da Carta farão um esforço para implementar estes princípios.'''</div># As entidades políticas devem uniformizar ao máximo as suas implementações da Carta Global dos Direitos Digitais para promover a amizade e cooperação internacional.
+# Os indivíduos e as organizações devem procurar promover os direitos digitais nas suas ações pessoais e organizacionais e na sua comunidade política.
+
+
+
+
