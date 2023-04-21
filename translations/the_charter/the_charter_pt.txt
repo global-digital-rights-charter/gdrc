@@ -5,8 +5,9 @@ VERSÃO 1.0 - MARÇO 2023
 
 == Preâmbulo ==
 
-Estas verdades são por si só evidentes:* o domínio digital, constituído por computadores, telemóveis, internet, realidade aumentada e virtual, o metaverso e outras tecnologias relacionadas, é uma parte permanente e importante da sociedade humana.
+Estas verdades são por si só evidentes:
 
+* o domínio digital, constituído por computadores, telemóveis, internet, realidade aumentada e virtual, o metaverso e outras tecnologias relacionadas, é uma parte permanente e importante da sociedade humana.
 * as pessoas são dotadas de determinados direitos inalienáveis que se aplicam no domínio digital, tal como se aplicam no domínio físico.
 * as pessoas têm o direito de viver as suas vidas no domínio digital com a mesma liberdade, dignidade, e soberania pessoal que no domínio físico.
 * direitos no domínio digital não serão abreviados ou restringidos sem o devido processo legal. Qualquer abreviação ou restringimento dos direitos digitais deve promover um interesse governamental imperioso e ser estritamente adaptada para alcançar esse interesse.
